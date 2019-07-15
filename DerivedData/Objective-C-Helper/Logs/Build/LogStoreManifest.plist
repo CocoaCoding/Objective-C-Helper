@@ -5,6 +5,71 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>C1D44CD8-9E78-4BF9-A592-D1718F6041D9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C1D44CD8-9E78-4BF9-A592-D1718F6041D9.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Objective-C-Helper project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Objective-C-Helper</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Objective-C-Helper</string>
+			<key>timeStartedRecording</key>
+			<real>584911125.84390795</real>
+			<key>timeStoppedRecording</key>
+			<real>584911128.26555204</real>
+			<key>title</key>
+			<string>Build Objective-C-Helper</string>
+			<key>uniqueIdentifier</key>
+			<string>C1D44CD8-9E78-4BF9-A592-D1718F6041D9</string>
+		</dict>
+		<key>DB9D1C3C-A250-4087-AEEF-F22875B343D4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DB9D1C3C-A250-4087-AEEF-F22875B343D4.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Objective-C-Helper project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Objective-C-Helper</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean Objective-C-Helper</string>
+			<key>timeStartedRecording</key>
+			<real>584911520.01333296</real>
+			<key>timeStoppedRecording</key>
+			<real>584911520.05185997</real>
+			<key>title</key>
+			<string>Clean Objective-C-Helper</string>
+			<key>uniqueIdentifier</key>
+			<string>DB9D1C3C-A250-4087-AEEF-F22875B343D4</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
