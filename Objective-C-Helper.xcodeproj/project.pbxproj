@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3FC158A422DD08A200266668 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FC158A322DD08A200266668 /* main.m */; };
+		3FC158AC22DD08DB00266668 /* NSString+Helper.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FC158AA22DD08DA00266668 /* NSString+Helper.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,9 @@
 /* Begin PBXFileReference section */
 		3FC158A022DD08A200266668 /* Objective-C-Helper */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Objective-C-Helper"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FC158A322DD08A200266668 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		3FC158AA22DD08DA00266668 /* NSString+Helper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Helper.m"; sourceTree = "<group>"; };
+		3FC158AB22DD08DA00266668 /* NSString+Helper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+Helper.h"; sourceTree = "<group>"; };
+		3FC158AD22DD093C00266668 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +45,7 @@
 		3FC1589722DD08A200266668 = {
 			isa = PBXGroup;
 			children = (
+				3FC158AD22DD093C00266668 /* README.md */,
 				3FC158A222DD08A200266668 /* Objective-C-Helper */,
 				3FC158A122DD08A200266668 /* Products */,
 			);
@@ -58,6 +63,8 @@
 			isa = PBXGroup;
 			children = (
 				3FC158A322DD08A200266668 /* main.m */,
+				3FC158AB22DD08DA00266668 /* NSString+Helper.h */,
+				3FC158AA22DD08DA00266668 /* NSString+Helper.m */,
 			);
 			path = "Objective-C-Helper";
 			sourceTree = "<group>";
@@ -119,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3FC158A422DD08A200266668 /* main.m in Sources */,
+				3FC158AC22DD08DB00266668 /* NSString+Helper.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
